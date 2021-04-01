@@ -1,4 +1,4 @@
-# Driver Drowsiness Detection: Project Alert_on_Road <img src=https://github.com/Vidushi-Gupta/Driver_Drowsiness_Detection/blob/master/static/ddd_logo.png width=130 align='right'>
+# Driver Drowsiness Detection: Project Alert_on_Road <img src=https://github.com/Vidushi-Gupta/Driver_Drowsiness_Detection/blob/master/ddd_logo.png width=130 align='right'>
 
 Alert on Road is a driver drowsiness detection software.
 ## Built With:
