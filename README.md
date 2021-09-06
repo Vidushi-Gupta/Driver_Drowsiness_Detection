@@ -14,6 +14,10 @@ This is a web app to detect if the driver is drowsy.
 | Mozilla Firefox Browser | 84.0.2 |
 | Safari | 14.0.3 |
 
+## Screenshot:
+
+![Drowsy](https://github.com/Vidushi-Gupta/Driver_Drowsiness_Detection/blob/master/drowsy.png)
+
 ## Contributors:
 
 * [Vidushi Gupta](https://github.com/Vidushi-Gupta)
